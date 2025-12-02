@@ -19,7 +19,7 @@
 # 网站信息
 site:
   name: ZJUTLUG
-  class: text # text / i_class / img
+  class: img # text / i_class / img
   custom: /img/logo.webp # Solitude / fas fa-ghost / /img/pwa/favicon.ico
   icon: /img/logo.webp # Site icon / 网站图标
 # --------------------------- end ---------------------------
@@ -43,6 +43,9 @@ nav:
        归档: /archives/ || fas fa-folder-closed # item name: link || icon
     #   分类: /categories/ || fas fa-clone
        标签: /tags/ || fas fa-tags
+     活动: # name
+       日历: /calendar/ || fas fa-calendar-alt # item name: link || icon
+       计划: /tags/活动计划/ || fas fa-flag
     # 友链:
     #   朋友圈: /moments/ || fas fa-wifi
     #   友情链接: /links/ || fas fa-user-group
@@ -134,7 +137,7 @@ aside:
     # 介绍 / Introduction
     description: 以开放之心，递开源之火
     # 内容 / Content
-    content: # 这是我的博客 / This is my Blog
+    content: 以开放之心，递开源之火 # 这是我的博客 / This is my Blog
     state:
       morning: ✨ 早上好，新的一天开始了
       noon: 🍲 午餐时间
@@ -525,7 +528,11 @@ footer:
     友情链接:
       精弘网络: https://www.myzjut.org
       精弘博客看板: https://zjutjh.github.io/
-    # 导航:
+    导航:
+      首页: /
+      文章: /archives/
+      标签: /tags/
+      活动日历: /calendar/
     #   Archives: /archives/
     #   Categories: /categories/
     #   Tags: /tags/
