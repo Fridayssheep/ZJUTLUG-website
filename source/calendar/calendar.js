@@ -18,14 +18,15 @@ function initCalendar() {
 }
 
 function renderCalendar(calendarEl) {
+  var isMobile = window.innerWidth < 768;
   var calendar = new FullCalendar.Calendar(calendarEl, {
-    initialView: 'dayGridMonth',
+    initialView: isMobile ? 'listMonth' : 'dayGridMonth',
     locale: 'zh-cn',
-    height: 'auto',
+    contentHeight: 'auto',
     headerToolbar: {
       left: 'prev,next today',
       center: 'title',
-      right: 'dayGridMonth,listMonth'
+      right: isMobile ? 'listMonth,dayGridMonth' : 'dayGridMonth,listMonth'
     },
     buttonText: {
       today: '今天',
