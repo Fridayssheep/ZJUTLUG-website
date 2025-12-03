@@ -7,13 +7,13 @@ title: ZJUTLUG
 subtitle: 'ZJUTLUG'
 description: '这里是浙江工业大学的LUG社团网站！'
 keywords:
-author: ZHUTLUG
+author: ZJUTLUG
 language: zh_CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://zjutlug.github.io/
+url: https://zjutlug.cn/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

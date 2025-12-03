@@ -1,10 +1,10 @@
 ---
-title: 开源启航 | 我院ZJUTLUG社团首次安装派对圆满结束
+title: 开源启航 | ZJUTLUG社团首次安装派对圆满结束
 date: 2025-11-29 11:43:24
 tags: [活动,开源]
 cover: /img/post/ZJUTLUG_first_installation_party/3.webp
 ---
-# 开源启航 | 我院ZJUTLUG社团首次安装派对圆满结束
+# 开源启航 | ZJUTLUG社团首次安装派对圆满结束
 近日，由我院ZJUTLUG社团主办的“Linux系统安装派对”在朝晖校区顺利举行。活动聚焦操作系统安装、开发环境配置与信创政策实践，最终48人成功完成Linux系统安装，成为校园科技活动的一次创新实践。  
 
 ## 分层教学与政策结合，打造技术普惠平台
