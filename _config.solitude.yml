@@ -100,7 +100,7 @@ hometop:
     enable: true
     sup: 置顶
     title: 欢迎来到ZJUTLUG社！ 
-    url: https://zjutlug.github.io/
+    url: https://zjutlug.cn
     img: /img/default.webp
     color: "none"
 # --------------------------- end ---------------------------
