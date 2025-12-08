@@ -2,6 +2,7 @@
 title: 活动预告 | 浙江工业大学 ZJUT LUG “河畔义修”活动公告 
 date: 2025-12-04 14:02:53
 tags: [活动计划,公告]
+cover: /img/defaultcover.webp
 ---
 #  活动预告 | 浙江工业大学 ZJUT LUG “河畔义修”活动公告 
 

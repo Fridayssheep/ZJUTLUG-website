@@ -21,7 +21,7 @@ site:
   name:
     class: text # text / i_class / img
     custom: ZJUTLUG # Solitude / fas fa-ghost / /img/pwa/favicon.ico
-  icon: /img/logo.webp # Site icon / 网站图标
+  icon: /img/logo.ico # Site icon / 网站图标
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -223,7 +223,7 @@ page:
     # Default image when no cover is set
     # 未设置封面时的默认图片
     cover:
-       - /img/defaultcover.webp # 默认图片 / default cover
+      - /img/defaultcover.webp # 默认图片 / default cover
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -234,7 +234,7 @@ post:
     # Default image when no cover is set
     # 未设置封面时的默认图片
     cover:
-      # - /img/default.avif # 默认图片 / default cover
+      - /img/defaultcover.webp # 默认图片 / default cover
     # Location
     # 位置
     locate: China
