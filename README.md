@@ -33,7 +33,7 @@ npm i
 ```
 4. 按照[Solitude指南](https://solitude.js.org/cn/getting-started/installation)加载主题，此处以Git作为示范，确保你在项目文件夹下后将主题`clone`到本地
 ```shell
-git submodule add https://github.com/everfu/hexo-theme-solitude themes/solitude
+git clone -b dev https://github.com/everfu/hexo-theme-solitude.git themes/solitude
 ```
 ## 编辑文章
 ### 文章命名规范
